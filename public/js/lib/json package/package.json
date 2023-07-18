@@ -1,0 +1,10 @@
+{
+  "name": "Diamond_Crew",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node-sass --output-style expanded --source-map true src/scss/bootstrap.scss dist/css/bootstrap.css"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}

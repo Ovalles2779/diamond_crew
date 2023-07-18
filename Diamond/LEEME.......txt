@@ -1,0 +1,11 @@
+
+
+
+ACCESO al url de localhost
+
+user       joseph2779@gmail.com	
+password   123456
+
+
+RUTA INDEX MAPA
+\view\Home
